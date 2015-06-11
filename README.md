@@ -14,5 +14,9 @@
 
 # B. 논문
 
+## 유저모델링
+
+ * Player Modeling - http://yannakakis.net/wp-content/uploads/2013/08/pm_submitted_final.pdf
+ 
 
 # C. 사이트
