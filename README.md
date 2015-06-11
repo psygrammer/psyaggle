@@ -13,6 +13,7 @@
 
 
 # B. 논문
-
+Player Modeling [http://yannakakis.net/wp-content/uploads/2013/08/pm_submitted_final.pdf]
 
 # C. 사이트
+User Modeling [http://en.wikipedia.org/wiki/User_modeling]
